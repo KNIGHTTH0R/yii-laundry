@@ -20,7 +20,7 @@
         "type": "composer",
         "url": "https://asset-packagist.org"
     }
-  ]
+  ],
   "extra": {
     "asset-installer-paths": {
       "npm-asset-library": "vendor-npm",
