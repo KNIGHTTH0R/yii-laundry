@@ -15,6 +15,11 @@
       "email": "sagarpatel8153@gmail.com"
     }
   ],
+  "autoload": {
+    "psr-4": {
+      "powerkernel\\yiilaundry\\": "src"
+    }
+  }
   "repositories": [
     {
         "type": "composer",
