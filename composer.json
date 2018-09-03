@@ -19,7 +19,7 @@
     "psr-4": {
       "powerkernel\\yiilaundry\\": "src"
     }
-  }
+  },
   "repositories": [
     {
         "type": "composer",
